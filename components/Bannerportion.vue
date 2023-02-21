@@ -5,7 +5,7 @@
             <b-row class="left-text">
                 <img src="../static/tech_img.png" class="tech_img" alt="">
                 <b-col class="left_content">
-                    <p class="welcome" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">hello to</p>
+                    <p class="welcome" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">welcome to</p>
                     <h2 class="text-capitalize text_1" data-aos="fade-right" data-aos-delay="600" data-aos-duration="1000">the next generation of <br><span> digital</span> ocean</h2>
                     <p class="text_2" data-aos="fade-right" data-aos-delay="700" data-aos-duration="1000">To be the best agency , by empowering businesses with the full potential of internet.
                         One day, all businesses will have the opportunity to come online to drive a
